@@ -1,0 +1,16 @@
+@font-face {
+        font-family: "MyWebFontRegular", sans-serif;
+        src: url("css/fonts/OpenSans-Regular.ttf") format("truetype"); 
+        src: 
+        url("css/fonts/OpenSans-Regular.woff") format("woff"),
+        url("css/fonts/OpenSans-Regular.woff2") format("woff2");
+      }
+
+@font-face {
+        font-family: "MyWebFontBold";
+        src: url("OpenSans-Bold.ttf");
+      }
+
+      body {
+          background-color:yellow;
+      }
